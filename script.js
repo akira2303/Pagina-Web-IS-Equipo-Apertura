@@ -45,7 +45,7 @@ const teams = [
                 name: "Gael Ricardo Mendoza Ballardo",
                 photo: "./fotos/foto_gael.jpg",
                 age: 21,
-                desc: "Descripción de Gael - Integrante del tercer equipo."
+                desc: "Desarrollador web con experiencia en el diseño y desarrollo de aplicaciones orientadas a la gestión de datos. Manejo tecnologías de programación y bases de datos para crear soluciones funcionales y eficientes. Tengo experiencia trabajando con consultas SQL, desarrollo backend y construcción de interfaces para sistemas administrativos, aplicando buenas prácticas de programación y resolución de problemas."
             },
             {
                 name: "Luis Jesus Lopez Nanez",
