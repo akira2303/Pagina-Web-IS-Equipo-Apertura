@@ -8,19 +8,19 @@
 </head>
 <body>
 
-  <h1>Equipo: Akiton</h1>
+  <h1 id="team-title">Equipo: Akiton</h1>
   
   <!-- Nombres de los integrantes -->
-  <h2 class="member-name">Jose Antonio Andrade Serrato</h2>
-  <h2 class="member-name">Akira Jaqueline Joya Hernandez</h2>
+  <h2 class="member-name" id="member-1-name">Jose Antonio Andrade Serrato</h2>
+  <h2 class="member-name" id="member-2-name">Akira Jaqueline Joya Hernandez</h2>
 
   <!-- Sección de integrantes con tarjetas -->
   <div id="member-section">
 
-    <!-- Tarjeta de Antonio -->
+    <!-- Tarjeta de miembro 1 -->
     <div class="member-card">
-      <img src="./fotos/FotoAntonio.png" alt="Foto de Jose Antonio Andrade Serrato">
-      <p>
+      <img id="member-1-photo" src="./fotos/FotoAntonio.png" alt="Foto de integrante 1">
+      <p id="member-1-desc">
         <strong>Antonio, 21 años</strong> <br>
         Estudiante de 8vo semestre en la carrera de Ing. En Sistemas Computacionales. <br>
         Tiene un gusto por la computación y la programación, sin embargo le apasiona
@@ -29,10 +29,10 @@
         pues piensa que si todos ponemos de nuestro apoyo y disciplina podemos lograr grandes cosas.
       </p>
     </div>
-    <!-- Tarjeta de Akira -->
+    <!-- Tarjeta de miembro 2 -->
     <div class="member-card">
-      <img src="./fotos/FotoAkira.jpeg" alt="Foto de Akira Jaqueline Joya Hernandez">
-      <p>
+      <img id="member-2-photo" src="./fotos/FotoAkira.jpeg" alt="Foto de integrante 2">
+      <p id="member-2-desc">
         <strong>Akira, 20 años</strong> <br>
         Estudiante de 6to semestre de la carrera de Ingeniería en Sistemas Computacionales. <br>
         Tiene un gusto por la programación y las bases de datos, sin embargo cuenta con más gustos en su vida personal
@@ -42,7 +42,7 @@
   </div>
   <div class="buttons-container">
     <button id="colorButton">Cambiar color de fondo</button>
-    <button id="switchButton">Mostrar siguiente integrante</button>
+    <button id="switchButton">Mostrar siguiente equipo</button>
   </div>
 
   <script src="script.js"></script>
