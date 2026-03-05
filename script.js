@@ -34,7 +34,7 @@ const teams = [
                 name: "Hector Eduardo Granados Hernandez",
                 photo: "./fotos/FotoEduardo.png",
                 age: 22,
-                desc: "Descripción de Eduardo - Integrante del segundo equipo."
+                desc: "Estuadiante de la carrera de ingenieria en Sistemas Computacionales, con un alto gusto por el desarollo web y las bases de datos. <br> Amante de la tecnologia y todo lo que lo engloba, tiene un gran gusto por la cocina y el vivir nuevos retos y experiencias que lo saquen de su zona de comfort, amante de los viajes, las aventuras y del conocer nuevos lugares  y personas."
             }
         ]
     },
