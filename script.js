@@ -94,3 +94,6 @@ document.getElementById("switchButton").addEventListener("click", () => {
     teamIndex = (teamIndex + 1) % teams.length; 
     updateTeam();
 });
+
+// Cargar el primer equipo al iniciar
+updateTeam();
