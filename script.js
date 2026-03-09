@@ -28,7 +28,7 @@ const teams = [
                 name: "Carmen Anel Ramirez Arreguin",
                 photo: "./fotos/foto_carmen.jpg",
                 age: 21,
-                desc: "Descripción de Carmen - Integrante del segundo equipo."
+                desc: "Gran compañera, responsable, carismática, atenta enfocada en las materias de la actual carrera en curso Ing. Sistemas computacionales con profundos conocimientos en desarrollo web y gestion de bases de datos."
             },
             {
                 name: "Hector Eduardo Granados Hernandez",
