@@ -51,7 +51,7 @@ const teams = [
                 name: "Luis Jesus Lopez Nanez",
                 photo: "./fotos/foto_luis.jpg",
                 age: 20,
-                desc: "Estudiante de Ing. Sistemas computacionales, con formacion basica en desarrollo de base de datos. Con un gusto por la musica y uina gran actitud positiva ante las Fakin vida."
+                desc: "Estudiante de Ing. Sistemas computacionales, con formacion basica en desarrollo de base de datos y el desarrollo de aplicaciones. Con un gusto por la música y gran pasión por la electronica además de tener curiosidad por la parte mecánica."
             }
         ]
     }
